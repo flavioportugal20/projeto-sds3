@@ -7,7 +7,6 @@ type Props = {
 
 
 const Pagination = ({ page, onPageChange }: Props) => {
-
     return (
         <div className="row d-flex">
             <nav>
