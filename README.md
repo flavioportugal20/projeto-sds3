@@ -13,4 +13,4 @@ Também estamos as tecnologias Spring para backend e React para frontend.
 
 # Autor
 
-[![Linkedin Badge](https://img.shields.io/static/v1?label=IN&message=Fl%C3%A1vio%20Potugal&color=blue](https://www.linkedin.com/in/flavio-portugal/)
+[![Linkedin Badge](https://img.shields.io/static/v1?label=IN&message=Fl%C3%A1vio%20Potugal&color=blue)](https://www.linkedin.com/in/flavio-portugal/)
