@@ -6,9 +6,10 @@ Este projeto foi desenvolvido na Semana Spring React da DevSuperior com professo
 Também estamos as tecnologias Spring para backend e React para frontend.
 
 ## Layouts
-
+### 1) Gráficos
 ![Web 1](https://github.com/flavioportugal20/projeto-sds3/blob/main/images/ds-vendas-1.png)
 
+### 2) Tabela
 ![Web 2](https://github.com/flavioportugal20/projeto-sds3/blob/main/images/ds-vendas-2.png)
 
 # Autor
